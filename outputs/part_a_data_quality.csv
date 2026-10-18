@@ -1,0 +1,12 @@
+check,value
+raw_rows,1224.0
+duplicate_rows_removed,24.0
+cleaned_rows,1200.0
+featured_rows,1200.0
+missing_distance_before_cleaning,36.0
+missing_weight_before_cleaning,25.0
+missing_declared_value_before_cleaning,12.0
+missing_payment_mode_before_cleaning,18.0
+sentinel_weight_rows,5.0
+delayed_count,278.0
+delay_rate,0.2317

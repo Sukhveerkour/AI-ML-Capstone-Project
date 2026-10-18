@@ -1,0 +1,29 @@
+{
+  "winner": "default",
+  "threshold": 0.5,
+  "k_features": 7,
+  "best_tree_depth": 6,
+  "grid_best_params": {
+    "model__max_depth": 6,
+    "model__min_samples_leaf": 1,
+    "model__n_estimators": 100
+  },
+  "randomized_best_params": {
+    "model__n_estimators": 50,
+    "model__min_samples_leaf": 1,
+    "model__max_depth": 6
+  },
+  "test_metrics": {
+    "accuracy": 0.8666666666666667,
+    "precision": 0.6888888888888889,
+    "recall": 0.7560975609756098,
+    "f1": 0.7209302325581395,
+    "roc_auc": 0.9170907176697666
+  },
+  "confusion_matrix": {
+    "tn": 125,
+    "fp": 14,
+    "fn": 10,
+    "tp": 31
+  }
+}
